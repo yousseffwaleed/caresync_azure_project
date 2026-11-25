@@ -138,6 +138,8 @@ Planned and implemented capabilities include:
 
 The Azure Data Factory instance uses a dedicated Git-integrated repository for ADF-generated artifacts.
 
+Repository: [yousseffwaleed/caresync_adf_repo](https://github.com/yousseffwaleed/caresync_adf_repo)
+
 The ADF repository contains resources such as:
 
 ```text
@@ -289,7 +291,7 @@ The project focuses on the following engineering principles:
 
 - [x] Azure project repository initialized
 - [x] Azure Data Factory Git integration established
-- [ ] Source-system ingestion
+- [x] Source-system ingestion
 - [ ] Metadata-driven ADF framework
 - [ ] Incremental loading
 - [ ] ADLS Gen2 Bronze layer
